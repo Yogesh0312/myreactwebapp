@@ -8,7 +8,7 @@ const Home = () => {
       <Commom
         name="Grow your business with"
         imgsrc={web}
-        visit="/myreactwebapp/service"
+        visit="/service"
         btname="Get Started"
       />
     </>

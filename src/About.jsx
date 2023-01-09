@@ -8,7 +8,7 @@ const About = () => {
             <Commom
                 name="Welcome to About page"
                 imgsrc={web}
-                visit="/myreactwebapp/contact"
+                visit="/contact"
                 btname="Contact Now"
             />
         </>
