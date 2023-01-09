@@ -14,10 +14,10 @@ const App = () => {
     <>
       <Navbar />
       <Routes>
-        <Route  path="/" element={<Home/>} />
-        <Route  path="/about" element={<About/>} />
-        <Route  path="/service" element={<Service/>} />
-        <Route  path="/contact" element={<Contact/>} />
+        <Route  path="/myreactwebapp/" element={<Home/>} />
+        <Route  path="/myreactwebapp/about" element={<About/>} />
+        <Route  path="/myreactwebapp/service" element={<Service/>} />
+        <Route  path="/myreactwebapp/contact" element={<Contact/>} />
       </Routes>
       <Footer />
     </>
